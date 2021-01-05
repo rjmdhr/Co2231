@@ -1,0 +1,504 @@
+Microsoft Windows [Version 10.0.18363.836]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+E:\University\Year 4\Comp 2231\Module 1\Assignment1Part2> c:\Users\rmudh\.vscode\extensions\vscjava.vscode-java-debug-0.26.0\scripts\launcher.bat "C:\Program Files\Java\jdk-14.0.1\bin\java.exe" --enable-preview -Dfile.encoding=UTF-8 -cp C:\Users\rmudh\AppData\Roaming\Code\User\workspaceStorage\384c88c8c0626e8a6d22c94141739444\redhat.java\jdt_ws\Assignment1Part2_67836556\bin SortingTest
+
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+Selection Sort: Number Comparisons: 45  
+                Execution Time: 12200 ns
+Insertion Sort: Number Comparisons: 9   
+                Execution Time: 3000 ns 
+Bubble Sort:    Number Comparisons: 45
+                Execution Time: 7300 ns
+Quick Sort:     Number Comparisons: 37
+                Execution Time: 32200 ns
+Merge Sort:     Number Comparisons: 19
+                Execution Time: 11800 ns
+
+10, 9, 8, 7, 6, 5, 4, 3, 2, 1
+Selection Sort: Number Comparisons: 45
+                Execution Time: 7700 ns
+Insertion Sort: Number Comparisons: 54
+                Execution Time: 7000 ns
+Bubble Sort:    Number Comparisons: 45
+                Execution Time: 28200 ns
+Quick Sort:     Number Comparisons: 49
+                Execution Time: 6700 ns
+Merge Sort:     Number Comparisons: 15
+                Execution Time: 7400 ns
+
+-1, -1, -2, -2, -3, -3, -4
+Selection Sort: Number Comparisons: 21
+                Execution Time: 4300 ns
+Insertion Sort: Number Comparisons: 24
+                Execution Time: 3400 ns
+Bubble Sort:    Number Comparisons: 21
+                Execution Time: 4700 ns
+Quick Sort:     Number Comparisons: 29
+                Execution Time: 12400 ns
+Merge Sort:     Number Comparisons: 9
+                Execution Time: 6000 ns
+
+1, -1, 2, -2, 3, -3, 4, -4, 5, -5
+Selection Sort: Number Comparisons: 45
+                Execution Time: 5300 ns
+Insertion Sort: Number Comparisons: 34
+                Execution Time: 3000 ns
+Bubble Sort:    Number Comparisons: 45
+                Execution Time: 5100 ns
+Quick Sort:     Number Comparisons: 47
+                Execution Time: 7100 ns
+Merge Sort:     Number Comparisons: 23
+                Execution Time: 10500 ns
+
+E:\University\Year 4\Comp 2231\Module 1\Assignment1Part2> cd "e:\University\Year 4\Comp 2231\Module 1\Assignment1Part2" && c:\Users\rmudh\.vscode\extensions\vscjava.vscode-java-debug-0.26.0\scripts\launcher.bat "C:\Program Files\Java\jdk-14.0.1\bin\java.exe" --enable-preview -Dfile.encoding=UTF-8 -cp C:\Users\rmudh\AppData\Roaming\Code\User\workspaceStorage\384c88c8c0626e8a6d22c94141739444\redhat.java\jdt_ws\Assignment1Part2_67836556\bin SortingTest
+
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+Selection Sort: Number Comparisons: 45
+                Execution Time: 13300 ns
+Insertion Sort: Number Comparisons: 9
+                Execution Time: 5000 ns
+Bubble Sort:    Number Comparisons: 45
+                Execution Time: 8000 ns
+Quick Sort:     Number Comparisons: 37
+                Execution Time: 22500 ns
+Merge Sort:     Number Comparisons: 19
+                Execution Time: 18100 ns
+
+10, 9, 8, 7, 6, 5, 4, 3, 2, 1
+Selection Sort: Number Comparisons: 45
+                Execution Time: 7700 ns
+Insertion Sort: Number Comparisons: 54
+                Execution Time: 6600 ns
+Bubble Sort:    Number Comparisons: 45
+                Execution Time: 13100 ns
+Quick Sort:     Number Comparisons: 49
+                Execution Time: 6300 ns
+Merge Sort:     Number Comparisons: 15
+                Execution Time: 6900 ns
+
+-1, -1, -2, -2, -3, -3, -4
+Selection Sort: Number Comparisons: 21
+                Execution Time: 3100 ns
+Insertion Sort: Number Comparisons: 24
+                Execution Time: 2300 ns
+Bubble Sort:    Number Comparisons: 21
+                Execution Time: 3400 ns
+Quick Sort:     Number Comparisons: 29
+                Execution Time: 6500 ns
+Merge Sort:     Number Comparisons: 9
+                Execution Time: 4900 ns
+
+1, -1, 2, -2, 3, -3, 4, -4, 5, -5
+Selection Sort: Number Comparisons: 45
+                Execution Time: 4500 ns
+Insertion Sort: Number Comparisons: 34
+                Execution Time: 3000 ns
+Bubble Sort:    Number Comparisons: 45
+                Execution Time: 4900 ns
+Quick Sort:     Number Comparisons: 47
+                Execution Time: 6500 ns
+Merge Sort:     Number Comparisons: 23
+                Execution Time: 11400 ns
+
+E:\University\Year 4\Comp 2231\Module 1\Assignment1Part2> cd "e:\University\Year 4\Comp 2231\Module 1\Assignment1Part2" && c:\Users\rmudh\.vscode\extensions\vscjava.vscode-java-debug-0.26.0\scripts\launcher.bat "C:\Program Files\Java\jdk-14.0.1\bin\java.exe" --enable-preview -Dfile.encoding=UTF-8 -cp C:\Users\rmudh\AppData\Roaming\Code\User\workspaceStorage\384c88c8c0626e8a6d22c94141739444\redhat.java\jdt_ws\Assignment1Part2_67836556\bin SortingTest
+
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+Selection Sort: Number Comparisons: 45
+                Execution Time: 26800 ns
+Insertion Sort: Number Comparisons: 9
+                Execution Time: 2900 ns
+Bubble Sort:    Number Comparisons: 45
+                Execution Time: 6700 ns
+Quick Sort:     Number Comparisons: 37
+                Execution Time: 12600 ns
+Merge Sort:     Number Comparisons: 19
+                Execution Time: 11100 ns
+
+10, 9, 8, 7, 6, 5, 4, 3, 2, 1
+Selection Sort: Number Comparisons: 45
+                Execution Time: 7400 ns
+Insertion Sort: Number Comparisons: 54
+                Execution Time: 6300 ns
+Bubble Sort:    Number Comparisons: 45
+                Execution Time: 14000 ns
+Quick Sort:     Number Comparisons: 49
+                Execution Time: 6800 ns
+Merge Sort:     Number Comparisons: 15
+                Execution Time: 6400 ns
+
+-1, -1, -2, -2, -3, -3, -4
+Selection Sort: Number Comparisons: 21
+                Execution Time: 3400 ns
+Insertion Sort: Number Comparisons: 24
+                Execution Time: 2600 ns
+Bubble Sort:    Number Comparisons: 21
+                Execution Time: 3100 ns
+Quick Sort:     Number Comparisons: 29
+                Execution Time: 6200 ns
+Merge Sort:     Number Comparisons: 9
+                Execution Time: 4900 ns
+
+1, -1, 2, -2, 3, -3, 4, -4, 5, -5
+Selection Sort: Number Comparisons: 45
+                Execution Time: 3600 ns
+Insertion Sort: Number Comparisons: 34
+                Execution Time: 2800 ns
+Bubble Sort:    Number Comparisons: 45
+                Execution Time: 4400 ns
+Quick Sort:     Number Comparisons: 47
+                Execution Time: 6000 ns
+Merge Sort:     Number Comparisons: 23
+                Execution Time: 8700 ns
+
+E:\University\Year 4\Comp 2231\Module 1\Assignment1Part2> cd "e:\University\Year 4\Comp 2231\Module 1\Assignment1Part2" && c:\Users\rmudh\.vscode\extensions\vscjava.vscode-java-debug-0.26.0\scripts\launcher.bat "C:\Program Files\Java\jdk-14.0.1\bin\java.exe" --enable-preview -Dfile.encoding=UTF-8 -cp C:\Users\rmudh\AppData\Roaming\Code\User\workspaceStorage\384c88c8c0626e8a6d22c94141739444\redhat.java\jdt_ws\Assignment1Part2_67836556\bin SortingTest
+
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+Selection Sort: Number Comparisons: 45
+                Execution Time: 14800 ns
+Insertion Sort: Number Comparisons: 9
+                Execution Time: 2700 ns
+Bubble Sort:    Number Comparisons: 45
+                Execution Time: 6500 ns
+Quick Sort:     Number Comparisons: 37
+                Execution Time: 12000 ns
+Merge Sort:     Number Comparisons: 19
+                Execution Time: 10300 ns
+
+10, 9, 8, 7, 6, 5, 4, 3, 2, 1
+Selection Sort: Number Comparisons: 45
+                Execution Time: 7600 ns
+Insertion Sort: Number Comparisons: 54
+                Execution Time: 6500 ns
+Bubble Sort:    Number Comparisons: 45
+                Execution Time: 12900 ns
+Quick Sort:     Number Comparisons: 49
+                Execution Time: 6900 ns
+Merge Sort:     Number Comparisons: 15
+                Execution Time: 6600 ns
+
+-1, -1, -2, -2, -3, -3, -4
+Selection Sort: Number Comparisons: 21
+                Execution Time: 3400 ns
+Insertion Sort: Number Comparisons: 24
+                Execution Time: 2600 ns
+Bubble Sort:    Number Comparisons: 21
+                Execution Time: 3400 ns
+Quick Sort:     Number Comparisons: 29
+                Execution Time: 6500 ns
+Merge Sort:     Number Comparisons: 9
+                Execution Time: 4800 ns
+
+1, -1, 2, -2, 3, -3, 4, -4, 5, -5
+Selection Sort: Number Comparisons: 45
+                Execution Time: 4100 ns
+Insertion Sort: Number Comparisons: 34
+                Execution Time: 2700 ns
+Bubble Sort:    Number Comparisons: 45
+                Execution Time: 4600 ns
+Quick Sort:     Number Comparisons: 47
+                Execution Time: 6100 ns
+Merge Sort:     Number Comparisons: 23
+                Execution Time: 8700 ns
+
+E:\University\Year 4\Comp 2231\Module 1\Assignment1Part2> cd "e:\University\Year 4\Comp 2231\Module 1\Assignment1Part2" && c:\Users\rmudh\.vscode\extensions\vscjava.vscode-java-debug-0.26.0\scripts\launcher.bat "C:\Program Files\Java\jdk-14.0.1\bin\java.exe" --enable-preview -Dfile.encoding=UTF-8 -cp C:\Users\rmudh\AppData\Roaming\Code\User\workspaceStorage\384c88c8c0626e8a6d22c94141739444\redhat.java\jdt_ws\Assignment1Part2_67836556\bin SortingTest
+
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+Selection Sort: Number Comparisons: 45
+                Execution Time: 13200 ns
+Insertion Sort: Number Comparisons: 9
+                Execution Time: 3400 ns
+Bubble Sort:    Number Comparisons: 45
+                Execution Time: 6600 ns
+Quick Sort:     Number Comparisons: 37
+                Execution Time: 14200 ns
+Merge Sort:     Number Comparisons: 19
+                Execution Time: 11300 ns
+
+10, 9, 8, 7, 6, 5, 4, 3, 2, 1
+Selection Sort: Number Comparisons: 45
+                Execution Time: 13300 ns
+Insertion Sort: Number Comparisons: 54
+                Execution Time: 7600 ns
+Bubble Sort:    Number Comparisons: 45
+                Execution Time: 130400 ns
+Quick Sort:     Number Comparisons: 49
+                Execution Time: 20300 ns
+Merge Sort:     Number Comparisons: 15
+                Execution Time: 7200 ns
+
+-1, -1, -2, -2, -3, -3, -4
+Selection Sort: Number Comparisons: 21
+                Execution Time: 3300 ns
+Insertion Sort: Number Comparisons: 24
+                Execution Time: 2400 ns
+Bubble Sort:    Number Comparisons: 21
+                Execution Time: 3300 ns
+Quick Sort:     Number Comparisons: 29
+                Execution Time: 6600 ns
+Merge Sort:     Number Comparisons: 9
+                Execution Time: 5000 ns
+
+1, -1, 2, -2, 3, -3, 4, -4, 5, -5
+Selection Sort: Number Comparisons: 45
+                Execution Time: 4400 ns
+Insertion Sort: Number Comparisons: 34
+                Execution Time: 2500 ns
+Bubble Sort:    Number Comparisons: 45
+                Execution Time: 4600 ns
+Quick Sort:     Number Comparisons: 47
+                Execution Time: 5800 ns
+Merge Sort:     Number Comparisons: 23
+                Execution Time: 9200 ns
+
+E:\University\Year 4\Comp 2231\Module 1\Assignment1Part2> cd "e:\University\Year 4\Comp 2231\Module 1\Assignment1Part2" && c:\Users\rmudh\.vscode\extensions\vscjava.vscode-java-debug-0.26.0\scripts\launcher.bat "C:\Program Files\Java\jdk-14.0.1\bin\java.exe" --enable-preview -Dfile.encoding=UTF-8 -cp C:\Users\rmudh\AppData\Roaming\Code\User\workspaceStorage\384c88c8c0626e8a6d22c94141739444\redhat.java\jdt_ws\Assignment1Part2_67836556\bin SortingTest
+
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+Selection Sort: Number Comparisons: 45
+                Execution Time: 33500 ns
+Insertion Sort: Number Comparisons: 9
+                Execution Time: 4300 ns
+Bubble Sort:    Number Comparisons: 45
+                Execution Time: 7400 ns
+Quick Sort:     Number Comparisons: 37
+                Execution Time: 15400 ns
+Merge Sort:     Number Comparisons: 19
+                Execution Time: 14000 ns
+
+10, 9, 8, 7, 6, 5, 4, 3, 2, 1
+Selection Sort: Number Comparisons: 45
+                Execution Time: 8100 ns
+Insertion Sort: Number Comparisons: 54
+                Execution Time: 7200 ns
+Bubble Sort:    Number Comparisons: 45
+                Execution Time: 32900 ns
+Quick Sort:     Number Comparisons: 49
+                Execution Time: 6900 ns
+Merge Sort:     Number Comparisons: 15
+                Execution Time: 7400 ns
+
+-1, -1, -2, -2, -3, -3, -4
+Selection Sort: Number Comparisons: 21
+                Execution Time: 3200 ns
+Insertion Sort: Number Comparisons: 24
+                Execution Time: 2800 ns
+Bubble Sort:    Number Comparisons: 21
+                Execution Time: 3500 ns
+Quick Sort:     Number Comparisons: 29
+                Execution Time: 7300 ns
+Merge Sort:     Number Comparisons: 9
+                Execution Time: 5200 ns
+
+1, -1, 2, -2, 3, -3, 4, -4, 5, -5
+Selection Sort: Number Comparisons: 45
+                Execution Time: 113300 ns
+Insertion Sort: Number Comparisons: 34
+                Execution Time: 3300 ns
+Bubble Sort:    Number Comparisons: 45
+                Execution Time: 5800 ns
+Quick Sort:     Number Comparisons: 47
+                Execution Time: 6700 ns
+Merge Sort:     Number Comparisons: 23
+                Execution Time: 9800 ns
+
+E:\University\Year 4\Comp 2231\Module 1\Assignment1Part2> cd "e:\University\Year 4\Comp 2231\Module 1\Assignment1Part2" && c:\Users\rmudh\.vscode\extensions\vscjava.vscode-java-debug-0.26.0\scripts\launcher.bat "C:\Program Files\Java\jdk-14.0.1\bin\java.exe" --enable-preview -Dfile.encoding=UTF-8 -cp C:\Users\rmudh\AppData\Roaming\Code\User\workspaceStorage\384c88c8c0626e8a6d22c94141739444\redhat.java\jdt_ws\Assignment1Part2_67836556\bin SortingTest
+
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+Selection Sort: Number Comparisons: 45
+                Execution Time: 12400 ns
+Insertion Sort: Number Comparisons: 9
+                Execution Time: 3300 ns
+Bubble Sort:    Number Comparisons: 45
+                Execution Time: 6600 ns
+Quick Sort:     Number Comparisons: 37
+                Execution Time: 12300 ns
+Merge Sort:     Number Comparisons: 19
+                Execution Time: 10400 ns
+
+10, 9, 8, 7, 6, 5, 4, 3, 2, 1
+Selection Sort: Number Comparisons: 45
+                Execution Time: 7400 ns
+Insertion Sort: Number Comparisons: 54
+                Execution Time: 6700 ns
+Bubble Sort:    Number Comparisons: 45
+                Execution Time: 14800 ns
+Quick Sort:     Number Comparisons: 49
+                Execution Time: 6400 ns
+Merge Sort:     Number Comparisons: 15
+                Execution Time: 6400 ns
+
+-1, -1, -2, -2, -3, -3, -4
+Selection Sort: Number Comparisons: 21
+                Execution Time: 3200 ns
+Insertion Sort: Number Comparisons: 24
+                Execution Time: 2400 ns
+Bubble Sort:    Number Comparisons: 21
+                Execution Time: 3400 ns
+Quick Sort:     Number Comparisons: 29
+                Execution Time: 6400 ns
+Merge Sort:     Number Comparisons: 9
+                Execution Time: 5000 ns
+
+1, -1, 2, -2, 3, -3, 4, -4, 5, -5
+Selection Sort: Number Comparisons: 45
+                Execution Time: 4100 ns
+Insertion Sort: Number Comparisons: 34
+                Execution Time: 2800 ns
+Bubble Sort:    Number Comparisons: 45
+                Execution Time: 4600 ns
+Quick Sort:     Number Comparisons: 47
+                Execution Time: 6200 ns
+Merge Sort:     Number Comparisons: 23
+                Execution Time: 9000 ns
+
+E:\University\Year 4\Comp 2231\Module 1\Assignment1Part2> cd "e:\University\Year 4\Comp 2231\Module 1\Assignment1Part2" && c:\Users\rmudh\.vscode\extensions\vscjava.vscode-java-debug-0.26.0\scripts\launcher.bat "C:\Program Files\Java\jdk-14.0.1\bin\java.exe" --enable-preview -Dfile.encoding=UTF-8 -cp C:\Users\rmudh\AppData\Roaming\Code\User\workspaceStorage\384c88c8c0626e8a6d22c94141739444\redhat.java\jdt_ws\Assignment1Part2_67836556\bin SortingTest
+
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+Selection Sort: Number Comparisons: 45
+                Execution Time: 31200 ns
+Insertion Sort: Number Comparisons: 9
+                Execution Time: 2500 ns
+Bubble Sort:    Number Comparisons: 45
+                Execution Time: 6300 ns
+Quick Sort:     Number Comparisons: 37
+                Execution Time: 11900 ns
+Merge Sort:     Number Comparisons: 19
+                Execution Time: 10500 ns
+
+10, 9, 8, 7, 6, 5, 4, 3, 2, 1
+Selection Sort: Number Comparisons: 45
+                Execution Time: 7400 ns
+Insertion Sort: Number Comparisons: 54
+                Execution Time: 6500 ns
+Bubble Sort:    Number Comparisons: 45
+                Execution Time: 14500 ns
+Quick Sort:     Number Comparisons: 49
+                Execution Time: 6800 ns
+Merge Sort:     Number Comparisons: 15
+                Execution Time: 6500 ns
+
+-1, -1, -2, -2, -3, -3, -4
+Selection Sort: Number Comparisons: 21
+                Execution Time: 2900 ns
+Insertion Sort: Number Comparisons: 24
+                Execution Time: 2400 ns
+Bubble Sort:    Number Comparisons: 21
+                Execution Time: 3500 ns
+Quick Sort:     Number Comparisons: 29
+                Execution Time: 6300 ns
+Merge Sort:     Number Comparisons: 9
+                Execution Time: 4900 ns
+
+1, -1, 2, -2, 3, -3, 4, -4, 5, -5
+Selection Sort: Number Comparisons: 45
+                Execution Time: 4200 ns
+Insertion Sort: Number Comparisons: 34
+                Execution Time: 2700 ns
+Bubble Sort:    Number Comparisons: 45
+                Execution Time: 4700 ns
+Quick Sort:     Number Comparisons: 47
+                Execution Time: 6000 ns
+Merge Sort:     Number Comparisons: 23
+                Execution Time: 8900 ns
+
+E:\University\Year 4\Comp 2231\Module 1\Assignment1Part2> cd "e:\University\Year 4\Comp 2231\Module 1\Assignment1Part2" && c:\Users\rmudh\.vscode\extensions\vscjava.vscode-java-debug-0.26.0\scripts\launcher.bat "C:\Program Files\Java\jdk-14.0.1\bin\java.exe" --enable-preview -Dfile.encoding=UTF-8 -cp C:\Users\rmudh\AppData\Roaming\Code\User\workspaceStorage\384c88c8c0626e8a6d22c94141739444\redhat.java\jdt_ws\Assignment1Part2_67836556\bin SortingTest
+
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+Selection Sort: Number Comparisons: 45
+                Execution Time: 13900 ns
+Insertion Sort: Number Comparisons: 9
+                Execution Time: 7400 ns
+Bubble Sort:    Number Comparisons: 45
+                Execution Time: 7800 ns
+Quick Sort:     Number Comparisons: 37
+                Execution Time: 33800 ns
+Merge Sort:     Number Comparisons: 19
+                Execution Time: 12300 ns
+
+10, 9, 8, 7, 6, 5, 4, 3, 2, 1
+Selection Sort: Number Comparisons: 45
+                Execution Time: 8600 ns
+Insertion Sort: Number Comparisons: 54
+                Execution Time: 6900 ns
+Bubble Sort:    Number Comparisons: 45
+                Execution Time: 23800 ns
+Quick Sort:     Number Comparisons: 49
+                Execution Time: 6700 ns
+Merge Sort:     Number Comparisons: 15
+                Execution Time: 6500 ns
+
+-1, -1, -2, -2, -3, -3, -4
+Selection Sort: Number Comparisons: 21
+                Execution Time: 2900 ns
+Insertion Sort: Number Comparisons: 24
+                Execution Time: 2700 ns
+Bubble Sort:    Number Comparisons: 21
+                Execution Time: 3200 ns
+Quick Sort:     Number Comparisons: 29
+                Execution Time: 6500 ns
+Merge Sort:     Number Comparisons: 9
+                Execution Time: 5000 ns
+
+1, -1, 2, -2, 3, -3, 4, -4, 5, -5
+Selection Sort: Number Comparisons: 45
+                Execution Time: 4200 ns
+Insertion Sort: Number Comparisons: 34
+                Execution Time: 2900 ns
+Bubble Sort:    Number Comparisons: 45
+                Execution Time: 4600 ns
+Quick Sort:     Number Comparisons: 47
+                Execution Time: 5800 ns
+Merge Sort:     Number Comparisons: 23
+                Execution Time: 9200 ns
+
+E:\University\Year 4\Comp 2231\Module 1\Assignment1Part2> cd "e:\University\Year 4\Comp 2231\Module 1\Assignment1Part2" && c:\Users\rmudh\.vscode\extensions\vscjava.vscode-java-debug-0.26.0\scripts\launcher.bat "C:\Program Files\Java\jdk-14.0.1\bin\java.exe" --enable-preview -Dfile.encoding=UTF-8 -cp C:\Users\rmudh\AppData\Roaming\Code\User\workspaceStorage\384c88c8c0626e8a6d22c94141739444\redhat.java\jdt_ws\Assignment1Part2_67836556\bin SortingTest
+
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+Selection Sort: Number Comparisons: 45
+                Execution Time: 13700 ns
+Insertion Sort: Number Comparisons: 9
+                Execution Time: 2600 ns
+Bubble Sort:    Number Comparisons: 45
+                Execution Time: 6100 ns
+Quick Sort:     Number Comparisons: 37
+                Execution Time: 12300 ns
+Merge Sort:     Number Comparisons: 19
+                Execution Time: 10100 ns
+
+10, 9, 8, 7, 6, 5, 4, 3, 2, 1
+Selection Sort: Number Comparisons: 45
+                Execution Time: 7800 ns
+Insertion Sort: Number Comparisons: 54
+                Execution Time: 11000 ns
+Bubble Sort:    Number Comparisons: 45
+                Execution Time: 51800 ns
+Quick Sort:     Number Comparisons: 49
+                Execution Time: 7400 ns
+Merge Sort:     Number Comparisons: 15
+                Execution Time: 21600 ns
+
+-1, -1, -2, -2, -3, -3, -4
+Selection Sort: Number Comparisons: 21
+                Execution Time: 4000 ns
+Insertion Sort: Number Comparisons: 24
+                Execution Time: 2800 ns
+Bubble Sort:    Number Comparisons: 21
+                Execution Time: 3500 ns
+Quick Sort:     Number Comparisons: 29
+                Execution Time: 6500 ns
+Merge Sort:     Number Comparisons: 9
+                Execution Time: 5900 ns
+
+1, -1, 2, -2, 3, -3, 4, -4, 5, -5
+Selection Sort: Number Comparisons: 45
+                Execution Time: 4300 ns
+Insertion Sort: Number Comparisons: 34
+                Execution Time: 4000 ns
+Selection Sort: Number Comparisons: 45
+                Execution Time: 4300 ns
+Bubble Sort:    Number Comparisons: 45
+                Execution Time: 4700 ns
+Quick Sort:     Number Comparisons: 47
+                Execution Time: 6200 ns
+Merge Sort:     Number Comparisons: 23
+                Execution Time: 10200 ns
